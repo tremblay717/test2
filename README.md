@@ -1,1 +1,6 @@
-Christophe Tremblay SIO-2109 automne 2014
+##SIO-2109 
+
+ex01
+Christophe Tremblay 
+
+automne 2014
